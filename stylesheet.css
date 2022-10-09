@@ -1,0 +1,48 @@
+a:hover {
+    color: black ;
+}
+
+#title {
+    text-align: center;
+    color: black;
+}
+
+.edu-pgraph {
+    text-align: center;
+}
+
+
+.top {
+    text-align: center;
+    background-color: #4B0082;
+    padding: 50px;
+    margin: 10px;
+}
+
+.work {
+    background-color: #4B0082;
+    padding: 20px;
+    margin: 10px;
+}
+
+.logo {
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.leadership-subtitle {
+    font-size: 20px;
+}
+
+.leadership-pgraph {
+    text-align: left;
+    margin-left: 25px;
+}
+
+.bottom {
+    text-align: center;
+    background-color: #4B0082;
+    padding: 20px;
+    margin: 10px;
+}
+
